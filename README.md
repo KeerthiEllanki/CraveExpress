@@ -1,7 +1,9 @@
-Crave Express is a comprehensive food delivery app model, aims to connect users with a diverse range of local restaurants, offering them a convenient platform to explore, order, and enjoy meals from the comfort of their homes or workplaces.
+Crave Express is a comprehensive food delivery app model, that aims to connect users with a diverse range of local restaurants, offering them a convenient platform to explore, order, and enjoy meals from the comfort of their homes or workplaces.
 
 
 Mobile App Screens:
+
+
 ![image](https://github.com/user-attachments/assets/d897b227-69af-4f9c-9dfa-94458dd6e63b)
 ![image](https://github.com/user-attachments/assets/fe7c984a-cabd-4504-a340-c1edf9d567bd)
 ![image](https://github.com/user-attachments/assets/e89edcca-8d91-4fd4-b5fd-8f08d801fb06)
